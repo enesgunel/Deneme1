@@ -41,3 +41,6 @@ while x < y:
     else:
         print("Hata!")
 print(asallar)
+
+
+# deneme 12--323123
